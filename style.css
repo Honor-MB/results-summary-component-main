@@ -54,8 +54,8 @@ html
     --dark-gray: #333;
 
     /*----------- FONT FAMILY */
+      --ff: "Hanken Grotesk", sans-serif;
 
-    --ff: "Inter", sans-serif;
 }
 
 body
